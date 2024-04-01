@@ -1,10 +1,10 @@
 ### Introduction
 Hello. Just a student studying programming. Using Github to study SW right now.
 
-##Career
+## Career
 Youngnam Univ. Student of Computer Engineering Department.
 
-##Links
+## Links
 - Email: cpqc5459@gmail.com
 
 <!--
