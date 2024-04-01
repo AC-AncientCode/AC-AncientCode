@@ -1,4 +1,11 @@
-### Hi there 👋
+### Introduction
+Hello. Just a student studying programming. Using Github to study SW right now.
+
+##Career
+Youngnam Univ. Student of Computer Engineering Department.
+
+##Links
+- Email: cpqc5459@gmail.com
 
 <!--
 **AC-AncientCode/AC-AncientCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
