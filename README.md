@@ -7,6 +7,13 @@ Youngnam Univ. Student of Computer Engineering Department.
 ## Links
 - Email: cpqc5459@gmail.com
 
+## Program Languages
+Java
+Python
+
+## Hobbies
+Computer Games, Drawing.
+
 <!--
 **AC-AncientCode/AC-AncientCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
